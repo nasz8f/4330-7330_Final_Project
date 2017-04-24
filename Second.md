@@ -3,60 +3,61 @@
 
 
 ### Language Purpose:
-
+  [Information Here]
 
 ### Features:
+ [Information Here]
 
+### Name Spaces:
+ [Information Here]
 
-### Name Spaces
+### Types:
+ [Information Here]
 
+### Classes:
+ [Information Here]
 
-### Types
+### Instance Reference in Data Type:
+ [Information Here]
 
+### Properties:
+ [Information Here]
 
-### Classes
+### Interfaces/Protocals:
+ [Information Here]
 
+### Inheritance/Extension:
+ [Information Here]
 
-### Instance Reference in Data Type
+### Reflection:
+ [Information Here]
 
+### Memory Management:
+ [Information Here]
 
-### Properties
+### Comparisons of Reference and Values:
+ [Information Here]
 
+### Null References:
+ [Information Here]
 
-### Interfaces/Protocals
+### Errors and Exception Handling:
+ [Information Here]
 
+### Lambda Expressions/Closures/Functions as Types:
+ [Information Here]
 
-### Inheritance/Extension
+### Implementation of Listeners and Event Handlers:
+ [Information Here]
 
+### Singleton:
+ [Information Here]
 
-### Reflection
+### Procedural Programming:
+ [Information Here]
 
+### Functional Programming:
+ [Information Here]
 
-### Memory Management
-
-
-### Comparisons of Reference and Values
-
-
-### Null References
-
-
-### Errors and Exception Handling
-
-
-### Lambda Expressions/Closures/Functions as Types
-
-
-### Implementation of Listeners and Event Handlers
-
-
-### Singleton
-
-
-### Procedural Programming
-
-
-### Functional Programming
-
-
-### Multithread
+### Multithread:
+ [Information Here]
