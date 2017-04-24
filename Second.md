@@ -1,6 +1,6 @@
 # C++
 
-- hi `#f03c15`
+<p style='color:red'>This is some red text.</p>
 
 # Language Purpose:
 
