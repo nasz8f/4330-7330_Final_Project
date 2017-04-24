@@ -7,9 +7,7 @@
 * [Information Here]
 
 .
-
 .
-
 .
 
 ## Similarities
