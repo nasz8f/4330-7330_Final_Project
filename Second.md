@@ -1,6 +1,6 @@
 # C++
 
-<font color="red">This is some text!</font>
+
 
 # Language Purpose:
 
