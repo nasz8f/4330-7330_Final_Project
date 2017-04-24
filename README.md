@@ -9,4 +9,4 @@ This is our repository for Object Oriented 1 CS4330/7330 Final Project
 
 * [C# OverView](https://github.com/nasz8f/4330-7330_Final_Project/blob/master/C%23.md)
 
-* [C++ VS C# Comparison]()
+* [C++ VS C# Comparison](https://github.com/nasz8f/4330-7330_Final_Project/blob/master/Comparison.md)
