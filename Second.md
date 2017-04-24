@@ -1,6 +1,6 @@
 # C++
 
-- ![#f03c15](hi) `#f03c15`
+- hi `#f03c15`
 
 # Language Purpose:
 
