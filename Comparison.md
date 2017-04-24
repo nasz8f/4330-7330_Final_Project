@@ -10,6 +10,8 @@
 .
 .
 
+_
+
 ## Similarities
 
 * [Information Here]
@@ -20,4 +22,5 @@
 .
 .
 
-[Code Examples]
+## Code Examples
+[Examples](https://github.com/nasz8f/4330-7330_Final_Project/blob/master/Code_Examples.md)
