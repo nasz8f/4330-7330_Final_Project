@@ -2,61 +2,61 @@
 
 
 
-# Language Purpose:
+### Language Purpose:
 
 
-# Features:
+### Features:
 
 
-# Name Spaces
+### Name Spaces
 
 
-# Types
+### Types
 
 
-# Classes
+### Classes
 
 
-# Instance Reference in Data Type
+### Instance Reference in Data Type
 
 
-# Properties
+### Properties
 
 
-# Interfaces/Protocals
+### Interfaces/Protocals
 
 
-# Inheritance/Extension
+### Inheritance/Extension
 
 
-# Reflection
+### Reflection
 
 
-# Memory Management
+### Memory Management
 
 
-# Comparisons of Reference and Values
+### Comparisons of Reference and Values
 
 
-# Null References
+### Null References
 
 
-# Errors and Exception Handling
+### Errors and Exception Handling
 
 
-# Lambda Expressions/Closures/Functions as Types
+### Lambda Expressions/Closures/Functions as Types
 
 
-# Implementation of Listeners and Event Handlers
+### Implementation of Listeners and Event Handlers
 
 
-# Singleton
+### Singleton
 
 
-# Procedural Programming
+### Procedural Programming
 
 
-# Functional Programming
+### Functional Programming
 
 
-# Multithread
+### Multithread
