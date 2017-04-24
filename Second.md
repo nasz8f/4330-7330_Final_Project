@@ -1,6 +1,6 @@
 # C++
 
-<p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
 
 # Language Purpose:
 
