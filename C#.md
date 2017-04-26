@@ -122,6 +122,12 @@ ________________________________________________________________________________
 ### Reflection:
  * Reflection in C# can dynamically create an instance of a type, bind the type to an existing object, and get the type from an existing object and invoke it's methods to access fields and properties.
  
+ * Reflection is useful in the following situations:
+ When you have to access attributes in your program's metadata.
+ For examining and instantiating types in an assembly.
+ For building new types at runtime.
+ For performing late binding, accessing methods on types created at run time
+ 
   ____________________________________________________________________________________________________________________________________________
 
 
