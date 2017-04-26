@@ -12,15 +12,15 @@ Back To
 _____________________________________________________________________________________________________________________________________________
 
 ### Features:
-1. Pointers are missing in C#.
-2. Unsafe operations such as direct memory manipulation are not allowed.
-3. In C# there is  no usage of "::" or "->" operators.
-4. Since it's on .NET, it inherits the features of automatic memory management and garbage collection.
-5. Varying ranges of the primitive types like Integer,Floats etc.
-6. Integer values  of 0 and 1 are no longer accepted as boolean values.Boolean values are pure true or false values in C# so no more errors of "="operator and "=="operator.
-7. "==" is used for comparison operation and "=" is used for assignment operation.
-8. C# supports Data Encapsulation, inheritance,polymorphism, interfaces.
-9. (int,float, double) are not objects in java but C# has introduces structures(structs) which enable the primitive types to become objects.
+* Pointers are missing in C#.
+* Unsafe operations such as direct memory manipulation are not allowed.
+* In C# there is  no usage of "::" or "->" operators.
+* Since it's on .NET, it inherits the features of automatic memory management and garbage collection.
+* Varying ranges of the primitive types like Integer,Floats etc.
+* Integer values  of 0 and 1 are no longer accepted as boolean values.Boolean values are pure true or false values in C# so no more errors of "="operator and "=="operator.
+* "==" is used for comparison operation and "=" is used for assignment operation.
+* C# supports Data Encapsulation, inheritance,polymorphism, interfaces.
+* (int,float, double) are not objects in java but C# has introduces structures(structs) which enable the primitive types to become objects.
 
 _____________________________________________________________________________________________________________________________________________
 
