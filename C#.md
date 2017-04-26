@@ -34,35 +34,35 @@ ________________________________________________________________________________
 ### Types:
 * Short Name : type
 
-byte Unsigned : integer
+  byte Unsigned : integer
 
-sbyte Signed : integer
+  sbyte Signed : integer
 
-int Signed : integer 
+  int Signed : integer 
 
-uint Unsigned : integer 
+  uint Unsigned : integer 
 
-short Signed : integer 
+  short Signed : integer 
 
-ushort Unsigned : integer 
+  ushort Unsigned : integer 
 
-long Signed : integer 
+  long Signed : integer 
 
-ulong Unsigned : integer
+  ulong Unsigned : integer
 
-float Single-precision : floating point type
+  float Single-precision : floating point type
 
-double Double-precision : floating point type 
+  double Double-precision : floating point type 
 
-char A single Unicode : character 
+  char A single Unicode : character 
 
-bool Logical : Boolean type
+  bool Logical : Boolean type
 
-object Base type of all other types 
+  object Base type of all other types 
 
-string A sequence of characters 
+  string A sequence of characters 
 
-decimal Precise fractional or integral type that can represent decimal numbers with 29 significant digits 
+  decimal Precise fractional or integral type that can represent decimal numbers with 29 significant digits 
 
 
  * C# supports both value and reference types. When a variable is declared using one of the basic, built-in data types or a user defined structure, it is a value type. An exception is the string data type, which is a reference type. A value type stores its contents in memory allocated on the stack. In contrast, a reference type, such as an instance of a class or an array, is allocated in a different area of memory called the heap. 
