@@ -132,7 +132,7 @@ ________________________________________________________________________________
 
 
 ### Memory Management:
- [Information Here]
+ * C# Supports automatic memory management so that developers do not have to worry about allocating and freeing memory.  This is implemented by a garbage collector.  Once an object is finished being used it is ready for deconstroction.  Sometime later the deconstructor is run once.  After the deconstructor is run, the object is inaccessable.  The object then becomes eligible for collection and the garbage collector collects it.
  
   ____________________________________________________________________________________________________________________________________________
 
