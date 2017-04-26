@@ -12,7 +12,7 @@ Back To
 _____________________________________________________________________________________________________________________________________________
 
 ### Features:
- * 1. Pointers are missing in C#.
+1. Pointers are missing in C#.
 2. Unsafe operations such as direct memory manipulation are not allowed.
 3. In C# there is  no usage of "::" or "->" operators.
 4. Since it's on .NET, it inherits the features of automatic memory management and garbage collection.
