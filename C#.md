@@ -25,7 +25,9 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________
 
 ### Name Spaces:
- [Information Here]
+ * There are two ways namespaces are implemented in C#, one way is using the .NET framework to organize classes.  For example, 'System' is a namespace and 'Console' is a class in said namespace.  To implement this you would type 'System.Console' followed by a command.  If at the top of the program you write 'using [namespace]' for example, 'using System', the name of the namespace would not have to be written before the name of the class each time. The second way of implementing namespaces  is to declare a namespace at the beginning of a program using the keyword 'namespace' followed by a custom name for the namespace.  This allows you to create your own namespace instead of using a default one.  Implementing namespaces allows you to organize large projects.
+ 
+ * The keyword namespace declares a scope that contains a set of objects.  Namespaces can be used to create globally unique types as well as organize elements in your code. A namespace may declare things such as an interface, class, enum, struct, and delegate, as well as another namespace.  If a namespace is not added to a project, the compiler will add a default namespace named 'root'.
 
 _____________________________________________________________________________________________________________________________________________
 
