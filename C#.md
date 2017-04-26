@@ -94,13 +94,21 @@ ________________________________________________________________________________
  ____________________________________________________________________________________________________________________________________________
 
 ### Properties:
- [Information Here]
+* In C#, getter and setters must be written using the 'get' and set' accessors.  The get accessor is executed when a property is read while the set accessor is executed when a property is assigned a new value.
+
+* C# supports backing variables.  A backing variable is a private field that stores the data exposed by a public property.  In C# a backing variable is referred to as a backing store or backing field.
+
+* A calculated property can be a replacement for a method in C# as long as they don't take a noticable amount of time.  It is when one property is computed by another.
  
   ____________________________________________________________________________________________________________________________________________
 
 
 ### Interfaces/Protocals:
- [Information Here]
+ * C# supports interfaces.  The 'interface' keyword includes behavior from multiple sources in a class.  This is important since C# does not support multiple inheritance in a class.
+
+* An interface can inherit from other interfaces.  It allows a 'simulation' inheritance for structs.  It is like a simulation because it can not actually inherit from another struct or class.
+
+* For an inteface to be used, it must be initialized by using the keyword 'interface' followed by a custom name.  This can be called in a class by writing the name of the intercafe after the class name separated by a ':'.  When a class uses an interface, it must provide an implementation for every member that the interface defines.
  
   ____________________________________________________________________________________________________________________________________________
 
