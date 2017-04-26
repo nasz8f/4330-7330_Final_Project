@@ -138,7 +138,7 @@ ________________________________________________________________________________
 
 
 ### Comparisons of Reference and Values:
- [Information Here]
+ * In C# two non string values can be compared with an '==' '<=' or '>='.  To compare strings however, the funtion String.equals(firstString, secondString, StringComparison.Ordinal).
  
   ____________________________________________________________________________________________________________________________________________
 
