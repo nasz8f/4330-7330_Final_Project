@@ -72,7 +72,11 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________
 
 ### Classes:
- [Information Here]
+* A class can be defined choosing an access level such as publuc, private, protected, or default.  This is followed by the keyword 'class' and then the custom name of your class.
+
+* A new object, or instance, can be created in a class by using the 'new' keyword, followed by the name of the class that the instance is based on.
+
+
  
  ____________________________________________________________________________________________________________________________________________
 
