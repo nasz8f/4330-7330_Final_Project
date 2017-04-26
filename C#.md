@@ -114,7 +114,7 @@ ________________________________________________________________________________
 
 
 ### Inheritance/Extension:
- [Information Here]
+* C# supports inheritance, however it does not support multiple inheritance.  Multiple inheritance however, can be simulated using an interface.  C# also does not support extension.
  
   ____________________________________________________________________________________________________________________________________________
 
