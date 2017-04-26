@@ -4,7 +4,10 @@ Back To
 
 
 ### Language Purpose:
-  [Information Here]
+ *  When Microsoft developed .Net they developed Pool alogn with it.  By the time .Net was publibly announced in July 2000, it was announced that Pool was renamed to C# for legal reasons. The creator of C# stated that flaws in most OO languages (one of which being C++) drove CLR which drove the design of C#.
+ 
+ 
+ * While people believed that a new programming language was not needed, C# was developed, derived from C and C++.  It was created to fix problems in C/C++ such as memory leaks, difficulty writing multithreaded applications, static linking, overly complex multiple inheritence rules...etc, making these functions of these languages easier to use.  The end product ended up being very similar to java.
 
 _____________________________________________________________________________________________________________________________________________
 
