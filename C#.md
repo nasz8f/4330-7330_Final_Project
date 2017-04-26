@@ -34,10 +34,10 @@ ________________________________________________________________________________
 ### Types:
 * Short Name type
 
-byte Unsigned integer
-sbyte Signed integer
-int Signed integer 
-uint Unsigned integer 
+ byte Unsigned integer
+ byte Signed integer
+ int Signed integer 
+ uint Unsigned integer 
 short Signed integer 
 ushort Unsigned integer 
 long Signed integer 
