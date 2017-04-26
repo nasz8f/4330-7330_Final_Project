@@ -120,7 +120,7 @@ ________________________________________________________________________________
 
 
 ### Reflection:
- [Information Here]
+ * Reflection in C# can dynamically create an instance of a type, bind the type to an existing object, and get the type from an existing object and invoke it's methods to access fields and properties.
  
   ____________________________________________________________________________________________________________________________________________
 
