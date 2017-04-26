@@ -76,7 +76,7 @@ ________________________________________________________________________________
 
 * A new object, or instance, can be created in a class by using the 'new' keyword, followed by the name of the class that the instance is based on.
 
-
+* When initializing a class, its constructor is called.  To create a class's constructor an access level must be chosen, followed by the keyword 'class' since the constructor shares the same name as the class and it's custom name.  This is to be created somewhere above the class that uses it.  The class can then be instantiated using the constructor by using the keyword 'new'.
  
  ____________________________________________________________________________________________________________________________________________
 
