@@ -84,6 +84,12 @@ ________________________________________________________________________________
 
 ### Instance Reference in Data Type:
 * C# uses the this parameter to refer to the current instance of a class.  The 'this' keyword can also be used as a modifier for an extension method.
+
+* In C#, getter and setters must be written using the 'get' and set' accessors.  The get accessor is executed when a property is read while the set accessor is executed when a property is assigned a new value.
+
+* C# supports backing variables.  A backing variable is a private field that stores the data exposed by a public property.  In C# a backing variable is referred to as a backing store or backing field.
+
+* A calculated property can be a replacement for a method in C# as long as they don't take a noticable amount of time.  It is when one property is computed by another.
  
  ____________________________________________________________________________________________________________________________________________
 
