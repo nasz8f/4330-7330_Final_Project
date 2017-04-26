@@ -103,7 +103,7 @@ ________________________________________________________________________________
   ____________________________________________________________________________________________________________________________________________
 
 
-### Interfaces/Protocals:
+### Interfaces/Protooals:
  * C# supports interfaces.  The 'interface' keyword includes behavior from multiple sources in a class.  This is important since C# does not support multiple inheritance in a class.
 
 * An interface can inherit from other interfaces.  It allows a 'simulation' inheritance for structs.  It is like a simulation because it can not actually inherit from another struct or class.
