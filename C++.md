@@ -68,14 +68,14 @@ ________________________________________________________________________________
    
  * C++ does support both value and reference types.
  
- * New value types can be created in C#. With user-defined types, you can use new to invoke the default constructor.
+ * New value types can be created in C++. With user-defined types, you can use new to invoke the default constructor.
 
 _____________________________________________________________________________________________________________________________________________
 
 ### Classes:
- * A class can be defined choosing an access level such as publuc, private, protected, or default. This is followed by the keyword 'class' and then the custom name of your class.  This is very similar to how this is done in C#.
+ * A class can be defined choosing an access level such as publuc, private, protected, or default. This is followed by the keyword 'class' and then the custom name of your class.
 
-* A new object, or instance, can be created in a class by using the 'new' keyword, followed by the name of the class that the instance is based on.  This is similar to C#.
+* A new object, or instance, can be created in a class by using the 'new' keyword, followed by the name of the class that the instance is based on.
  
  ____________________________________________________________________________________________________________________________________________
 
