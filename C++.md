@@ -102,6 +102,8 @@ ________________________________________________________________________________
  
  * An abstract class provides a base class which other classes can inherit from.
  
+ * An abstract class is used by calling a function from a base class using the interface.
+ 
   ____________________________________________________________________________________________________________________________________________
 
 
