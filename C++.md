@@ -67,6 +67,8 @@ ________________________________________________________________________________
    decltype(nullptr)
    
  * C++ does support both value and reference types.
+ 
+ * New value types can be created in C#. With user-defined types, you can use new to invoke the default constructor.
 
 _____________________________________________________________________________________________________________________________________________
 
