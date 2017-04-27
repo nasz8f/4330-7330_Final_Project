@@ -98,7 +98,7 @@ ________________________________________________________________________________
 
 
 ### Interfaces/Protocals:
- * C++ implements interfaces as abstract classes.
+ * C++ implements interfaces as abstract classes. The 'interface' keyword includes behavior from multiple sources in a class.
  
   ____________________________________________________________________________________________________________________________________________
 
