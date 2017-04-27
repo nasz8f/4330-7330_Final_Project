@@ -180,13 +180,13 @@ ________________________________________________________________________________
 
 
 ### Procedural Programming:
- [Information Here]
+ * The functionality of C# is logically procedural.
  
   ____________________________________________________________________________________________________________________________________________
 
 
 ### Functional Programming:
- [Information Here]
+ * C# has all the features needed for functional programming.  These consist of higher order functions, closures, and lanbda expressions
  
   ____________________________________________________________________________________________________________________________________________
 
