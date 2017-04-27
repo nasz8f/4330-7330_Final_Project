@@ -144,7 +144,7 @@ ________________________________________________________________________________
 
 
 ### Null References:
- * C# used null.  The 'null' keyword that represents a null reference.
+ * C# used null.  The 'null' keyword that represents a null reference. While ordinary value types are not allowed to be null, C# has nullable value types.
  
   ____________________________________________________________________________________________________________________________________________
 
@@ -156,13 +156,13 @@ ________________________________________________________________________________
 
 
 ### Lambda Expressions/Closures/Functions as Types:
- [Information Here]
+ * In C# a lambda expression lets one create delegates or expression tree types.  Lambda expressions allow for local functions to be passed as arguments or returned as the value from said function.  A lambda expression can be created in C# by specifying parameters on the left side of the expression, followed by a statement block, preceded by a '=>'.
  
   ____________________________________________________________________________________________________________________________________________
 
 
 ### Implementation of Listeners and Event Handlers:
- [Information Here]
+* In C#, events are based on a delegate model which enables a subscriber to register with and receive notifications from.  An event sender pushes a notification and event.  An event receiver then receives the notification and responds.
  
   ____________________________________________________________________________________________________________________________________________
 
