@@ -192,4 +192,6 @@ ________________________________________________________________________________
 
 
 ### Multithread:
- [Information Here]
+ * In C# a thread can be created by using the 'Thread' keyword and calling the constructor for the method one would want to execute the thread on.  A thread can be started with the keyword 'Start' and ended witht the keyword 'Abort'.  These threads allow multiple tasks to be run at the same time.  Tasks that have potential to hold up other tasks can be executed on seperate threads.
+ 
+ * Multitasking is accomplished by writing processor-intensive tasks on seperate threads.  More threads should be added as the workload of a project increases.
