@@ -4,7 +4,8 @@ Back To
 
 
 ### Language Purpose:
-  [Information Here]
+  * C++ was designed by Bjarne Stroustup. He wanted to create a C like language with more features introduced in higher level languages. He created "C with classes" until 1983 when the name was changed to c++
+  * the bigest issue Stroustup had with c was adding data abstraction and also creating an object oriented language. Another issue he had with c was distributing operating system facilities across a network.
 
 _____________________________________________________________________________________________________________________________________________
 
