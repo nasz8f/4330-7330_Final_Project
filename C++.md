@@ -69,7 +69,9 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________
 
 ### Classes:
- [Information Here]
+ * A class can be defined choosing an access level such as publuc, private, protected, or default. This is followed by the keyword 'class' and then the custom name of your class.  This is very similar to how this is done in C++.
+
+
  
  ____________________________________________________________________________________________________________________________________________
 
