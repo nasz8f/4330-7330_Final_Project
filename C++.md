@@ -83,7 +83,7 @@ ________________________________________________________________________________
  ____________________________________________________________________________________________________________________________________________
 
 ### Instance Reference in Data Type:
- [Information Here]
+* C++ supports both this and self.  'this' is a keyword while 'self' is a variable.  'This' always refers to the object that is executing a particular method.  'self' variables may be modified during execution.  For example, A constructor may assign a 'self' variable to nil on failure.
  
  ____________________________________________________________________________________________________________________________________________
 
