@@ -144,7 +144,9 @@ ________________________________________________________________________________
 
 
 ### Null References:
- * C# used null.  The 'null' keyword that represents a null reference. While ordinary value types are not allowed to be null, C# has nullable value types.
+ * C# used null.
+ 
+ * The 'null' keyword represents a null reference. While ordinary value types are not allowed to be null, C# has nullable value types.
  
   ____________________________________________________________________________________________________________________________________________
 
@@ -168,7 +170,11 @@ ________________________________________________________________________________
 
 
 ### Singleton:
- [Information Here]
+ * In C# a singleton is typically specified without parameters.  There are multiple ways of implementing a singleton in C#.  All implimentations share four characteristics.  Each implementation contains one constructor (private and parameterless), The class is sealed, there is a static variable which holds reference to an instance, and there is a public static way of getting reference to said instance.
+ 
+ * In C# a singleton can be either thread-safe or non thread-safe.
+ 
+ * Singletons must be created lazily in C#
  
   ____________________________________________________________________________________________________________________________________________
 
