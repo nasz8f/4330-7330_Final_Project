@@ -144,13 +144,13 @@ ________________________________________________________________________________
 
 
 ### Null References:
- [Information Here]
+ * C# used null.  The 'null' keyword that represents a null reference.
  
   ____________________________________________________________________________________________________________________________________________
 
 
 ### Errors and Exception Handling:
- [Information Here]
+* C# uses the 'try' keyword to partition code that could be affected by an exception.  A 'try' block needs either a 'catch; block or 'finally' block or both to work.  The 'catch' keyword is used to handle an exception that comes from this.  The 'finally' keyword has code that runs no matter if an exception is thrown or not with the 'try' keyword.
  
   ____________________________________________________________________________________________________________________________________________
 
