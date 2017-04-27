@@ -79,6 +79,7 @@ ________________________________________________________________________________
 
 * When initializing a class, its constructor is called. To create a class's constructor an access level must be chosen, followed by the keyword 'class' since the constructor shares the same name as the class and it's custom name. This is to be created somewhere above the class that uses it. The class can then be instantiated using the constructor by using the keyword 'new'.
  
+* In C++ a class may only have one deconstructor which can't be called. A deconstructor is invoked automatically. It doesn't hve modifiers or parameters. A deconstructor may be created by calling the keyword 'class' with the class's custom name. Inside of the brackets of this, the name of the class preceded by a '~' and followed by '()'. This will deconstruct a class.
  ____________________________________________________________________________________________________________________________________________
 
 ### Instance Reference in Data Type:
