@@ -21,7 +21,9 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________
 
 ### Name Spaces:
- * In C++ namespaces are declared at the beginning of a program using the keyword 'namespace' followed by a custom name for the namespace.  This allows you to create your own namespace instead of using a default one.  This is very similar to the second way namespaces are implemented in C#
+ * In C++ namespaces are declared at the beginning of a program using the keyword 'namespace' followed by a custom name for the namespace.  This allows you to create your own namespace instead of using a default one.  This is very similar to the second way namespaces are implemented in C#.
+ 
+ * In C++ namespaces encapsulate each version of an interface nested inside the parent, which is the namespace.
 
 _____________________________________________________________________________________________________________________________________________
 
