@@ -28,7 +28,43 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________
 
 ### Types:
- * unsigned char, char, char16_t, char32_t, wchar_t, unsigned short, short, unsigned int, int, unsigned long, long, unsigned long long, long long, float, double, long double, bool, void, decltype(nullptr)
+ * unsigned char
+   
+   char
+   
+   char16_t
+   
+   char32_t
+   
+   wchar_t
+   
+   unsigned short
+   
+   short
+   
+   unsigned int
+   
+   int
+   
+   unsigned long
+   
+   long
+   
+   unsigned long long
+   
+   long long
+   
+   float
+   
+   double
+   
+   long double
+   
+   bool
+   
+   void
+   
+   decltype(nullptr)
 
 _____________________________________________________________________________________________________________________________________________
 
