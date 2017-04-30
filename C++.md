@@ -121,7 +121,11 @@ ________________________________________________________________________________
 
 
 ### Memory Management:
- [Information Here]
+ C++ supports automatic memory management via garbage collection and RAII. C++ also takes advantage of Smart Pointers
+ 
+A smart pointer type is defined as any class type that overloads operator->, operator*, or operator->*. One thing to note straight away is that "smart pointers" are, in a sense, not really pointers at all -- but overloading these operators allows a smart pointer to behave much like a built-in pointer, and much code can be written which works with both "real" pointers and smart pointers.
+
+C++ also offers manual memory management. This can be implemented with the use of "new" and "delete". however it is noted that these functions are rarely used as there are more sophisticated formed of handling memory given to the language.
  
   ____________________________________________________________________________________________________________________________________________
 
