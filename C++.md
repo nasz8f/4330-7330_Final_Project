@@ -114,8 +114,9 @@ ________________________________________________________________________________
 
 
 ### Reflection:
- [Information Here]
+ C++ does not support Reflection.
  
+ Reflection is useful in the following situations: When you have to access attributes in your program's metadata. For examining and instantiating types in an assembly. For building new types at runtime. For performing late binding, accessing methods on types created at run time
   ____________________________________________________________________________________________________________________________________________
 
 
