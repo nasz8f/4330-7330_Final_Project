@@ -108,7 +108,7 @@ ________________________________________________________________________________
 
 
 ### Inheritance/Extension:
- [Information Here]
+ C++ Supports multiple inheritance. This is unusual as most Object Oriented Languages do not, b/c multiple inheritance is hard to maintain and is "Error prone". C++ also supports extension.
  
   ____________________________________________________________________________________________________________________________________________
 
