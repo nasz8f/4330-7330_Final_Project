@@ -5,10 +5,11 @@ Back To
 
 _____________________________________________________________________________________________________________________________________________
 
-## C++ Code Examples
+## Memory Management
 
-
-    //Script
+ *C++
+    int j = 30;
+    Myclass *pMine=new Myclass
     
 Description:
 
