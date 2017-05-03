@@ -178,7 +178,9 @@ To fire an event, simply call the method declared as an event in the event sourc
 
 
 ### Singleton:
- [Information Here]
+ In order to use a singleton in C++, make sure it is tread safe and never null. make sure it is created only once.
+ 
+ Depending on your system requirements, yes you can use  "lazy" implementation.
  
   ____________________________________________________________________________________________________________________________________________
 
