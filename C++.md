@@ -137,7 +137,8 @@ C++ also offers manual memory management. This can be implemented with the use o
 
 
 ### Null References:
- [Information Here]
+ c++ does use null. 
+ However Null can be used to initalize to 0. This is a value that can be silently converted to pointer.
  
   ____________________________________________________________________________________________________________________________________________
 
