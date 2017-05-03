@@ -192,7 +192,7 @@ To fire an event, simply call the method declared as an event in the event sourc
 
 
 ### Functional Programming:
- [Information Here]
+ * C++ implements functional programming.  It uses functions in order to implement code.
  
   ____________________________________________________________________________________________________________________________________________
 
