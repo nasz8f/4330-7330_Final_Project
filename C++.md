@@ -131,8 +131,7 @@ C++ also offers manual memory management. This can be implemented with the use o
 
 
 ### Comparisons of Reference and Values:
- [Information Here]
- 
+  * In C++ strings can be compared in two ways.  First, strings can be compared if one assigns a string to a string variable and use the '==' operator to see if the string is equal to a string value which would be typed in quotation marks.  This can be implemented in something such as an if statement.  Another way of comparing strings is to use the built in operator "compare".  It can be implemented by first assigning two strings to two different variables.  They can be compared by typing the name of the first string, followed by a ".", followed by "compare()".  In the parenthesis the name of the second string is to be stated.  This operator will return an integer.  If "0" is returned, the strings are equal.  If the value returned is positive, the compared string is either longer or it's first non-matching character is of greater value.  If the value returned is negative, the compared string is either shorter or it's first non-matching character is of lesser value.
   ____________________________________________________________________________________________________________________________________________
 
 
