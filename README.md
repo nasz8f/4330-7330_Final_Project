@@ -3,7 +3,7 @@ This is our repository for Object Oriented 1 CS4330/7330 Final Project
 
 # Languages To Compare:  C++ VS C#
 
-### Group Members: Nicolas Smith (Quail), Matthew Schwarz(Pail), Whale, David Pevahouse (Pass-Fail), Blake Endsley(Kale)
+### Group Members: Nicolas Smith (Quail), Matthew Schwarz (Pail), Andrew Stoll (Wail), David Pevahouse (Pass-Fail), Blake Endsley (Kale)
 
 * [C++ OverView](https://github.com/nasz8f/4330-7330_Final_Project/blob/master/C%2B%2B.md)
 
