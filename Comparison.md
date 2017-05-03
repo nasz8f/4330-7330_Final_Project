@@ -22,10 +22,11 @@ ________________________________________________________________________________
 
 ## Similarities
 
-* 
-
-* [Information Here]
-
+* The bool type: There is no conversion between the bool type and other types (specifically int).
+* both have system garbage collection
+* both have strict compiler conditions which are checked such as array  indexes, initialisation of variables before use etc
+* both can perform reflection.
+* both have excellent exception handling.
 .
 .
 .
