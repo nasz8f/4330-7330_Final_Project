@@ -198,4 +198,4 @@ To fire an event, simply call the method declared as an event in the event sourc
 
 
 ### Multithread:
- [Information Here]
+ Multithreading is the ability to run mutlitple threads of execution, or the smallest sequences of coding. Essentially this just means that programs run several threads at the sime time on different processors or cores. This is possible with C++, where there are just program multiple threads in the fnction, and they will all run at the same time.
