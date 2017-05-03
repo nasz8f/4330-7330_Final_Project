@@ -149,7 +149,7 @@ C++ also offers manual memory management. This can be implemented with the use o
 
 
 ### Lambda Expressions/Closures/Functions as Types:
- [Information Here]
+ A lambda expression in C++ are functions that are used to define the function at the location it is called. There is normally an encapsulation of a few lines of code that are considered and passed as an algorithms or asynchronous method. They are used just to clarify what will be happening in the lines, and use nearby values when needed
  
   ____________________________________________________________________________________________________________________________________________
 
