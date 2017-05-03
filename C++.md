@@ -155,7 +155,24 @@ C++ also offers manual memory management. This can be implemented with the use o
 
 
 ### Implementation of Listeners and Event Handlers:
- [Information Here]
+#####Declaring Events
+
+In an event source class, use the /_/_event keyword on a method declaration to declare the method as an event. Make sure to declare the method, but do not define it; to do so will generate a compiler error, because the compiler defines the method implicitly when it is made into an event.
+
+
+#####Defining Event Handlers
+
+In an event receiver class, you define event handlers, which are methods with signatures (return types, calling conventions, and arguments) that match the event that they will handle.
+
+
+#####Hooking Event Handlers to Events
+
+Also in an event receiver class, you use the intrinsic function /_/_hook to associate events with event handlers and /_/_unhook to dissociate events from event handlers. You can hook several events to an event handler, or several event handlers to an event.
+
+
+#####Firing Events
+
+To fire an event, simply call the method declared as an event in the event source class. If handlers have been hooked to the event, the handlers will be called.
  
   ____________________________________________________________________________________________________________________________________________
 
