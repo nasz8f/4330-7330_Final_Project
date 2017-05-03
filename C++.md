@@ -167,7 +167,7 @@ C++ also offers manual memory management. This can be implemented with the use o
 
 
 ### Procedural Programming:
- [Information Here]
+ * C++ has procedural coding that is done inside of objects.  Because of this, C++ does support procedural programing.
  
   ____________________________________________________________________________________________________________________________________________
 
