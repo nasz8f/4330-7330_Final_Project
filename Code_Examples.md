@@ -12,11 +12,11 @@ ________________________________________________________________________________
     int j = 30;
     Myclass *pMine=new Myclass
     
-Description:
+*C#
 
-    //Script
+    Int j=30;
+    Myclass mine=new Myclass()
     
-Description:
 
 ...
     
