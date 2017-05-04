@@ -7,12 +7,12 @@ ________________________________________________________________________________
 
 ## Memory Management
 
-*C++
+C++
    
     int j = 30;
     Myclass *pMine=new Myclass
     
-*C#
+C#
 
     Int j=30;
     Myclass mine=new Myclass()
@@ -23,14 +23,14 @@ ________________________________________________________________________________
     
 ## If Else Condition
 
-*C++
+C++
 
     if(boolean_expression) {
        // statement(s) will execute if the boolean expression is true
     } else {
        // statement(s) will execute if the boolean expression is false
     }
-*C#
+C#
 
     //Script
     
