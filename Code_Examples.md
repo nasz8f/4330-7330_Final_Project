@@ -10,7 +10,7 @@ ________________________________________________________________________________
 C++
    
     int j = 30;
-    Myclass *pMine=new Myclass
+    Myclass Mine=new Myclass
     
 C#
 
