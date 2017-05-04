@@ -25,13 +25,17 @@ ________________________________________________________________________________
 
 C++
 
-    if(boolean_expression) {
-       // statement(s) will execute if the boolean expression is true
+    if(x) {
+       // statement(s) will execute
     } else {
-       // statement(s) will execute if the boolean expression is false
+       // statement(s) will execute
     }
 C#
 
-    //Script
+    if(x != 0 ) {
+      // statement(s) will execute
+    } else {
+      // statement(s) will execute
+    }
     
     
