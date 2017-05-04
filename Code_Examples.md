@@ -8,6 +8,7 @@ ________________________________________________________________________________
 ## Memory Management
 
 *C++
+   
     int j = 30;
     Myclass *pMine=new Myclass
     
@@ -25,11 +26,11 @@ ________________________________________________________________________________
 
 *C++
 
-if(boolean_expression) {
-   // statement(s) will execute if the boolean expression is true
-} else {
-   // statement(s) will execute if the boolean expression is false
-}
+    if(boolean_expression) {
+       // statement(s) will execute if the boolean expression is true
+    } else {
+       // statement(s) will execute if the boolean expression is false
+    }
 *C#
 
     //Script
