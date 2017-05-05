@@ -3,7 +3,7 @@
 Back To
 [Comparison](https://github.com/nasz8f/4330-7330_Final_Project/blob/master/Comparison.md)
 
-_____________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________
 
 ## Memory Management
 
@@ -19,7 +19,7 @@ C#
     
 
     
-_____________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________
     
 ## If Else Condition
 
@@ -33,9 +33,34 @@ C++
 C#
 
     if(x != 0 ) {
-      // statement(s) will execute
+      // statement(s) will execute but condition based on bool
     } else {
-      // statement(s) will execute
+      // statement(s) will execute but condition based on bool
     }
     
+__________________________________________________________________________________________________________________________________________
+
+## Switch Statement
+
+C++
+
+    switch(x)
+    {
+      case 1:
+      //Do Something
+      case 2:
+      //Do Something Else
+    }
     
+C#
+
+    switch(x)
+    {
+      case1:
+      case2:
+      case3:
+      //Do Something
+    }
+    
+C# can only fall through to the next case if the case doesn't do any work.
+      
